@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS
 import jieba
 
-
 class WordCloud_CN:
     '''
     use package wordcloud and jieba
